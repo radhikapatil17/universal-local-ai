@@ -63,6 +63,3 @@ App freezes on "Thinking..." when using images: Ensure you have downloaded the v
 Web Search returns 0 results: DuckDuckGo may temporarily rate-limit your IP address if you make too many requests too quickly. Wait a few hours or connect to a different network/VPN.
 
 "Bad Interpreter" Error: If you moved the project folder to a new location, your virtual environment path is broken. Delete the haystack_env folder and recreate it using the setup steps above.
-
-📄 License
-This project is open-source and free to use.
